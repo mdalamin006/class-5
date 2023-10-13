@@ -1,0 +1,112 @@
+.header{
+    height:100px;
+    background-color:rgb(255, 255, 255);
+    
+}
+.head{
+   
+    margin-bottom: 20px;
+    font-family:dosis;
+    font-size:20px;
+    border:rgb(255, 255, 255) 1px solid;
+}
+.text{
+    color:blue;
+    text-decoration:italic;
+    font-weight: bolder;
+}
+#search{
+    
+   
+   background-color:antiquewhite;
+}
+#search:focus{
+    background-color:chocolate;
+    width:70%;
+
+}
+button{
+    color:chocolate;
+    background-color:rgb(209, 150, 150);
+    size:20px;
+}
+button:hover{
+    color:coral;
+    background-color: transparent;
+    text-decoration:none;
+}
+button:visited{
+    color:blanchedalmond;
+    background-color:transparent;
+    text-decoration: none;
+}
+.container{
+    overflow: hidden;
+    margin:20px;
+}
+.blog{
+    width:65%;
+    height:250px;
+    background-color:rgb(255, 255, 255);
+    float:left;
+    border:1px solid whitesmoke;
+    background:url("/class4/images/pexels-pixabay-268533.jpg") no-repeat fixed;
+    border-radius: 20px;
+    
+}
+span{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:blueviolet;
+    font-weight: bold;
+}
+.contact{
+    width:30%;
+    height:250px;
+    background-color:rgb(255, 255, 255);
+    float:left;
+
+}
+.box{
+    width:33.33%;
+    height:150px;
+    float:left;
+}
+.service{
+    background-color:rgb(250, 250, 250);
+}
+.service2{
+    background-color: rgb(135, 158, 80);
+
+}
+#yourname{
+    width:200px;
+    height: 50px;
+    background-color:beige;
+}
+#submit{
+    width: 60px;
+    height:30px;
+    color:rgb(32, 121, 148);
+}
+.foter{
+    height:100px;
+    background-color: black;
+    color:azure;
+}
+
+.policy:link{
+ color:aqua;
+ background-color: transparent;
+ text-decoration: none;
+}
+.policy:visited{
+    color:chocolate;
+    background-color:transparent;
+    text-decoration: none;
+}
+.policy:hover{
+    color:chocolate;
+    background-color:transparent;
+    text-decoration: overline;
+}
